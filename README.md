@@ -40,6 +40,12 @@ Complete!!
 Elapsed Time: 0.0815 sec
 ```
 
+For more options, please refer to script help.
+
+```
+(.env)$ python .\main.py -h
+```
+
 ## Install
 
 Fork and clone this repository.
